@@ -1,4 +1,4 @@
-# 
+# 自定义 scalping trading bot 工作流 Mac OS版 | 官方 scalping trading bot 工作流 PC Windows版。集成 趋势跟随 和 API集成，跨平台性能最大化。
 
 
 
